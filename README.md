@@ -1,15 +1,10 @@
 # Hey, I'm Eden! :D
 
 I'm studying computer science at Georgia State University (Class of '27) with a minor in game design and development. I'm also interested in web dev!
-<!--
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
--  Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ---------------------------------
+🎮 In the early developmental stages of creating my own mystery/thriller game! Currently working on <a href="https://www.instagram.com/khurgtown">character art</a>, composing music, and cowriting with my best friend.
+<br><br>
 🌟 RISE Mentee
 <br><br>
 🐦‍⬛ Artist (since 2019!)
