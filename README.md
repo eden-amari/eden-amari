@@ -18,7 +18,7 @@ I'm studying computer science at Georgia State University (Class of '27) with a 
 
 - CodePath
 
-- ColorsStack
+- ColorStack
 
 - Women In Tech
 
