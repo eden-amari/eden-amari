@@ -9,7 +9,7 @@ I'm studying computer science at Georgia State University (Class of '27) with a 
 <br><br>
 🐦‍⬛ Artist (since 2019!)
 <br><br>
-📎Currently learning JavaScript
+📎Currently learning JavaScript and C#
 
 <!-- • RISE🌿  Mentee -->
 
